@@ -1,2 +1,2 @@
 # javaScriptExercise
-JavaScript Exercise - Angela Yu
+JavaScript Exercise
